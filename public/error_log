@@ -1,0 +1,237 @@
+[30-Apr-2021 11:41:03 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:07 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:09 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:09 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:10 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:10 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:10 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:11 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:11 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:11 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:13 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:13 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:13 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:14 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:14 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:14 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:17 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:17 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:17 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:41:56 Asia/Bangkok] PHP Warning:  require_once(/var/www/html/trader/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /var/www/html/trader/vendor/autoload.php on line 5
+[30-Apr-2021 11:41:56 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required '/var/www/html/trader/vendor/composer/autoload_real.php' (include_path='.:/usr/local/lib/php') in /var/www/html/trader/vendor/autoload.php on line 5
+[30-Apr-2021 11:43:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:14 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:14 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:14 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:16 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:17 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
+[30-Apr-2021 11:43:17 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInit49dc9f85c67b9953e3bc0965b5562206' not found in /var/www/html/trader/vendor/autoload.php:7
+Stack trace:
+#0 /var/www/html/trader/public/index.php(24): require()
+#1 {main}
+  thrown in /var/www/html/trader/vendor/autoload.php on line 7
